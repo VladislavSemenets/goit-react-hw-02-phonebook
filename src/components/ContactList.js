@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {} from './ContactList.styled'
+
 
 const ContactList = ({ contacts, onDeleteContact }) => (
   <ul>
